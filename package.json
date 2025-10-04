@@ -1,0 +1,9 @@
+{
+  "name": "knitting-wizards-lego-blocks",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.ts",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
